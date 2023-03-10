@@ -1,1 +1,1 @@
-# Scatter-plot
+# Scatter-Chart
